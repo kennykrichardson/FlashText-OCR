@@ -1,6 +1,6 @@
-# ⚡ FlashFrame OCR
+# ⚡ FlashText OCR
 
-FlashFrame OCR is a fast, privacy-focused OCR web application built with React, Vite, TailwindCSS, and Tesseract.js.
+FlashText OCR is a fast, privacy-focused OCR web application built with React, Vite, TailwindCSS, and Tesseract.js.
 
 Extract text from images instantly with a clean, modern interface inspired by speed, simplicity, and lightweight usability.
 
@@ -39,13 +39,13 @@ Extract text from images instantly with a clean, modern interface inspired by sp
 Clone the repository:
 
 ```bash
-git clone https://github.com/Ykennykrichardson/flashframe-ocr.git
+git clone https://github.com/kennykrichardson/FlashText-OCR.git
 ```
 
 Go into the project:
 
 ```bash
-cd flashframe-ocr
+cd FlashText-OCR
 ```
 
 Install dependencies:
@@ -82,7 +82,7 @@ Deploy easily using:
 
 ## 📱 PWA Support
 
-FlashFrame OCR supports installation on mobile devices.
+FlashText OCR supports installation on mobile devices.
 
 ### Android
 Open the deployed site in Chrome and tap:
@@ -100,7 +100,7 @@ Share → Add to Home Screen
 
 ## 🔒 Privacy
 
-FlashFrame OCR processes OCR directly in the browser using Tesseract.js.
+FlashText OCR processes OCR directly in the browser using Tesseract.js.
 
 No uploaded images are stored on servers.
 
@@ -108,11 +108,11 @@ No uploaded images are stored on servers.
 
 ## 📸 Screenshots
 
-### FlashFrame Workspace Page
-![FlashFrame Workspace Page](screenshots/flashframe_workspace.jpeg)
+### FlashText Workspace Page
+![FlashText Workspace Page](screenshots/flashtext_workspace.jpeg)
 
-### FlashFrame History Page
-![FlashFrame History Page](screenshots/flashframe_history.jpeg)
+### FlashText History Page
+![FlashText History Page](screenshots/flashtext_history.jpeg)
 
 ---
 

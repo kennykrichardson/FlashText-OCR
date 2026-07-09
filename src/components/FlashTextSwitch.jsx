@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const FlashFrameSwitch = ({
+const FlashTextSwitch = ({
   activeTab,
   setActiveTab,
 }) => {
@@ -1062,4 +1062,4 @@ const StyledWrapper = styled.div`
     background-position: 0 0 !important;
   }`;
 
-export default FlashFrameSwitch;
+export default FlashTextSwitch;

@@ -22,9 +22,9 @@ export default defineConfig({
 
       manifest: {
 
-        name: 'FlashFrame OCR',
+        name: 'FlashText OCR',
 
-        short_name: 'FlashFrame',
+        short_name: 'FlashText',
 
         description:
           'Lightning-fast OCR extraction.',

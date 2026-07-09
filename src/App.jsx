@@ -5,7 +5,7 @@ import UploadBox from './components/UploadBox'
 import OCRResult from './components/OCRResult'
 import Loader from './components/Loader'
 import AnimatedButton from './components/AnimatedButton'
-import FlashFrameSwitch from './components/FlashFrameSwitch'
+import FlashTextSwitch from './components/FlashTextSwitch'
 
 export default function App() {
 
@@ -153,7 +153,7 @@ setLoading(false)
             </span>
 
             <span className="text-black">
-              <i>Frame</i>
+              <i>Text</i>
             </span>
 
             <span className="text-yellow-500">
@@ -166,7 +166,7 @@ setLoading(false)
 
 <div className="flex justify-center mb-8">
 
-  <FlashFrameSwitch
+  <FlashTextSwitch
     activeTab={activeTab}
     setActiveTab={setActiveTab}
   />
@@ -545,7 +545,7 @@ setLoading(false)
           text-gray-500
           text-sm
         ">
-          Built with ❤️ and OCR Technology.
+          Built with ⚡ and OCR Technology.
         </div>
 
       </div>
